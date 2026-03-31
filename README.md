@@ -15,7 +15,7 @@ A simple, fast bash script to detect the **March 31, 2026 Axios npm supply chain
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOURUSERNAME/axios-compromise-scanner.git
+git clone https://github.com/atraxsrc/axios-compromise-scanner.git
 cd axios-compromise-scanner
 
 # Make executable and run
