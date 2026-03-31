@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://via.placeholder.com/800x200/0A2540/FFFFFF?text=Axios+Compromise+Scanner" alt="Axios Compromise Scanner" width="800"/>
+</p>
+
 # Axios Compromise Scanner
 
 A simple, fast bash script to detect the **March 31, 2026 Axios npm supply chain attack**.
