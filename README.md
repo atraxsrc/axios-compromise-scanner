@@ -1,5 +1,4 @@
-<img width="500" height="261" alt="image" src="https://github.com/user-attachments/assets/a0f9bd1e-f80c-42f7-982a-62a525c1b1bf" />
-
+[url=https://cdnlogo.com/logo/Axios_144836.html][img]https://static.cdnlogo.com/logos/A/25/Axios_800.png[/img][/url]
 
 # Axios Compromise Scanner
 
