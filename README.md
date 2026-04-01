@@ -1,5 +1,5 @@
+<img width="500" height="261" alt="image" src="https://github.com/user-attachments/assets/a0f9bd1e-f80c-42f7-982a-62a525c1b1bf" />
 
-<img width="1342" height="447" alt="624de949df5a11680ab170b9_Axios logo - RGB - minimum space" src="https://github.com/user-attachments/assets/95882864-80f5-458c-8133-5d5607f139a2" />
 
 # Axios Compromise Scanner
 
