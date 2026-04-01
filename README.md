@@ -1,5 +1,4 @@
-[url=https://cdnlogo.com/logo/Axios_144836.html][img]https://static.cdnlogo.com/logos/A/25/Axios_800.png[/img][/url]
-
+<a href="https://cdnlogo.com/logo/Axios_144836.html"><img src="https://static.cdnlogo.com/logos/A/25/Axios_800.png"></a>
 # Axios Compromise Scanner
 
 A simple, fast bash script to detect the **March 31, 2026 Axios npm supply chain attack**.
